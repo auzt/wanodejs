@@ -1,0 +1,1 @@
+node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js

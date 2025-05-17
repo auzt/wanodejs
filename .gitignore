@@ -1,0 +1,29 @@
+# Folder dependencies
+node_modules/
+sessions/
+
+# File konfigurasi lingkungan
+.envclea
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Folder hasil build (jika ada)
+dist/
+build/
+
+# Cache
+.cache/
+.tmp/
+
+# File sistem editor
+.DS_Store
+.vscode/
+.idea/
+
+# Baileys (optional, jika kamu simpan auth session sebagai file JSON)
+auth_info.json
+session.json
+baileys_auth_info.json
